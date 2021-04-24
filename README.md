@@ -3,7 +3,7 @@ Zadanie kwalifikacyjne
 
 ### Uruchomienie
 
-- Aby uruchomić plik APK najpierw należy go pobrać z repozytorium, a następnie przenieść na urządzenie z systemem Android i zainstalować. Należy pamiętać o tym, aby pozwolić na instalowanie aplikacji z nieznanego źródła. Plik ten znajduje się w folderze AllegroRepos - Plik APK.
+- Aby uruchomić plik apk najpierw należy go pobrać z repozytorium, a następnie przenieść na urządzenie z systemem Android i zainstalować. Należy pamiętać o tym, aby pozwolić na instalowanie aplikacji z nieznanego źródła. Plik ten znajduje się w folderze Plik APK.
 - Aby uruchomić projekt w symulatorze w Android Studio należy pobrać repozytorium, uruchomić środowisko Android Studio, otworzyć istniejący projekt, wczytać projekt AllegroRepos, wybrać jedno z zainstalowanych wirtualnych urządzeń (lub jeżeli nie jest zainstalowane, to zrobić to) i uruchomić aplikację.
 
 ### Uwagi/Ważne informacje
